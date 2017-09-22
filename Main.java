@@ -22,7 +22,6 @@ public class Main {
                 contadorO++;
             }
         }
-
         System.out.println("Hay " + contador + " vocales");
         System.out.println("Hay " + contadorO + " con la vocal O");
     }
